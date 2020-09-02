@@ -1,0 +1,12 @@
+Osoba{imie='Aleksandra', nazwisko='Linka', rokUrodzenia=1946}Student{numerIndeksu='s1287'}
+Osoba{imie='Christmas', nazwisko='Jones', rokUrodzenia=1999}Student{numerIndeksu='s9356'}
+Osoba{imie='Jan', nazwisko='Proboszcz', rokUrodzenia=1974}Student{numerIndeksu='s3797'}
+Osoba{imie='Janusz', nazwisko='Metal', rokUrodzenia=1936}Student{numerIndeksu='s0654'}
+Osoba{imie='Kamil', nazwisko='Sojka', rokUrodzenia=1985}Student{numerIndeksu='s9399'}
+Osoba{imie='Marek', nazwisko='Padalec', rokUrodzenia=1975}Student{numerIndeksu='s4588'}
+Osoba{imie='Martyna', nazwisko='Rynko', rokUrodzenia=1967}Student{numerIndeksu='s0124'}
+Osoba{imie='Mariusz', nazwisko='Kolejka', rokUrodzenia=1992}Student{numerIndeksu='s4321'}
+Osoba{imie='Natalya', nazwisko='Simonova', rokUrodzenia=1921}Student{numerIndeksu='s0123'}
+Osoba{imie='Piotr', nazwisko='Projekt', rokUrodzenia=1993}Student{numerIndeksu='s9999'}
+Osoba{imie='Tomasz', nazwisko='Drewno', rokUrodzenia=1997}Student{numerIndeksu='s0111'}
+Osoba{imie='Wai', nazwisko='Lin', rokUrodzenia=1990}Student{numerIndeksu='s1234'}
